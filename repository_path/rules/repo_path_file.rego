@@ -1,5 +1,4 @@
 package rules
 
 
-
-x = 9
+d = 9
